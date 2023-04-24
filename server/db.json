@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "name": "Haley Weaver",
+      "photo": "https://www.slashrtc.com/img/overview-img.webp",
+      "email": "disy@mailinator.com",
+      "mobile": 8732718682,
+      "company": "Meyer ",
+      "title": "Quia veniam ut haru",
+      "groupID": "1",
+      "id": 1
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLR2hlGcWx8Ijzpya5gSBQ2-czj8-E6B9yWA&usqp=CAU",
+      "name": "Owen Rasmussen",
+      "email": "owen@mail.com",
+      "mobile": 70893265414,
+      "company": "Morales ",
+      "title": "Corporis quae numqua",
+      "groupID": "3",
+      "id": 2
+    },
+    {
+      "name": "Samuel Barry",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEGRRM_Ch7UY-Wi9QYHWH99vKSTMXIpfKZg&usqp=CAU",
+      "email": "sila@mailinator.com",
+      "mobile": 57,
+      "company": "Martinez Griffith Inc",
+      "title": "Ipsa qui non velit",
+      "groupID": "3",
+      "id": 3
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "collegue"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Collage"
+    },
+    {
+      "id": "6",
+      "name": "Family"
+    }
+  ]
+}
